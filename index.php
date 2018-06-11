@@ -1,3 +1,3 @@
 <?php
-	echo "Diogo Brandão de Araujo"
+	echo "Diogo Brandão de Araujo - DLXExpress"
 ?>
